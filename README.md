@@ -11,15 +11,6 @@ Proven ability to collaborate with engineering, security, and business stakehold
 solutions that elevate performance across diverse environments.
 
 
----
-
-### 🔗 **Download My Resume**
-<a href="./AngelaD_ResData.pdf" download>
-  <img src="https://img.shields.io/badge/📥_Download_Resume-PDF-blue?style=for-the-badge" alt="Download Resume Badge"/>
-</a>
-
----
-
 ### 🔧 **Tech Stack & Skills**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -50,6 +41,13 @@ National University
 </div>
 
 ---
+---
 
-## 🗂️ Repository Contents
+### 🔗 **Download My Resume**
+<a href="./AngelaD_ResData.pdf" download>
+  <img src="https://img.shields.io/badge/📥_Download_Resume-PDF-blue?style=for-the-badge" alt="Download Resume Badge"/>
+</a>
+
+---
+
 
