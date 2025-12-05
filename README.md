@@ -35,11 +35,6 @@ solutions that elevate performance across diverse environments.
 ## 🧭 Overview
 <div align="center">
 
-### 🎓 **PhD in Data Science (In Progress)**  
-*National University*
-
----
-
 <table>
   <tr>
     <td>🔭</td>
