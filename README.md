@@ -35,28 +35,15 @@ solutions that elevate performance across diverse environments.
 ## 🧭 Overview
 <div align="center">
 
-<table>
-  <tr>
-    <td>🔭</td>
-    <td><strong>Currently working on my PhD in Data Science at National University</strong></td>
-  </tr>
-  <tr>
-    <td>🌱</td>
-    <td><strong>Actively learning Machine Learning Deployment & MLOps</strong></td>
-  </tr>
-  <tr>
-    <td>👯</td>
-    <td><strong>Open to collaboration on Machine Learning & AI projects</strong></td>
-  </tr>
-  <tr>
-    <td>🤝</td>
-    <td><strong>Seeking to grow my network of like-minded data professionals</strong></td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><strong>Fun facts: I love poetry and attending Comic & Anime Cons</strong></td>
-  </tr>
-</table>
+<div align="left" style="display:inline-block; text-align:left;">
+
+🔭 <strong>Currently working on my PhD in Data Science at National University</strong>  
+🌱 <strong>Actively learning Machine Learning Deployment & MLOps</strong>  
+👯 <strong>Open to collaboration on Machine Learning & AI projects</strong>  
+🤝 <strong>Looking to grow my network of like-minded data professionals</strong>  
+⚡ <strong>Fun facts: I love poetry and attending Comic & Anime Cons</strong>  
+
+</div>
 
 </div>
 
