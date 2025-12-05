@@ -1,6 +1,11 @@
 ## Hi there 👋 I'm Angela Diaz
 
-As a passionate individual with a keen interest in AI, Predictive Analytics, and Machine Learning, I have always been fascinated by the power of data-driven insights. I completed my masters in Data Science, where honed skills in process optimization and knowledge management, with a focus on driving efficiency. I proudly posses a solid understanding of data-driven decision making and its application in various business contexts. Building on my strong foundation, I am pursuing a PhD in Data Science, further enhancing my expertise in the field. With hands-on experience in Python, SAS, SQL, and R programming languages, I have successfully applied my knowledge to develop innovative solutions. Through continuous learning and professional growth, I am dedicated to staying at the forefront of the rapidly evolving field of data science. I am excited about the endless possibilities that data analytics can offer and am committed to making a meaningful impact through my work.
+Data-driven IT and analytics leader with 10+ years of experience driving technical operations, leading support and
+project teams, and optimizing systems through automation, documentation, and structured processes. PhD Candidate in
+Data Science with hands-on experience in machine learning, predictive analytics, statistical modeling, and end-to-end
+data workflows, leveraging Python and R for applied modeling, deep learning, and optimization. Adept at transforming
+complex data into actionable insights, enhancing organizational efficiency, and guiding data-informed decision-making.
+Proven ability to collaborate with engineering, security, and business stakeholders
 
 - 🔭 I’m currently working on PhD. Data Science at National University
 - 🌱 I’m currently learning Machine Learning Deployment
