@@ -1,9 +1,15 @@
 <div align="center">
 
-# 📄 **Angela Diaz — Resume**
+# 📄 **Angela Diaz**
 
-A polished, data-science–focused resume hosted for easy access.  
-Feel free to view, download, or reference the PDF below.
+Data-driven IT and analytics leader with 10+ years of experience driving technical operations, leading support and
+project teams, and optimizing systems through automation, documentation, and structured processes. PhD Candidate in
+Data Science with hands-on experience in machine learning, predictive analytics, statistical modeling, and end-to-end
+data workflows, leveraging Python and R for applied modeling, deep learning, and optimization. Adept at transforming
+complex data into actionable insights, enhancing organizational efficiency, and guiding data-informed decision-making.
+Proven ability to collaborate with engineering, security, and business stakeholders to deliver scalable, reliable, and userfocused
+solutions that elevate performance across diverse environments.
+
 
 ---
 
