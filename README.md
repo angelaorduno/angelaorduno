@@ -33,12 +33,37 @@ solutions that elevate performance across diverse environments.
 ---
 
 ## 🧭 Overview
-🔭 I’m currently working on PhD. Data Science at National University
-🌱 I’m currently learning Machine Learning Deployment
-👯 I’m looking to collaborate on Machine Learning and AI projects
-🤔 I’m looking for help growing my network of like minded people
-⚡ Fun facts: I love poetry and attending Comic and Anime Cons
+<div align="center">
 
+### 🎓 **PhD in Data Science (In Progress)**  
+*National University*
+
+---
+
+<table>
+  <tr>
+    <td>🔭</td>
+    <td><strong>Currently working on my PhD in Data Science at National University</strong></td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td><strong>Actively learning Machine Learning Deployment & MLOps</strong></td>
+  </tr>
+  <tr>
+    <td>👯</td>
+    <td><strong>Open to collaboration on Machine Learning & AI projects</strong></td>
+  </tr>
+  <tr>
+    <td>🤝</td>
+    <td><strong>Seeking to grow my network of like-minded data professionals</strong></td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><strong>Fun facts: I love poetry and attending Comic & Anime Cons</strong></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
