@@ -20,8 +20,8 @@ Click below to view or download the PDF:
 
 ## 📬 Contact
 
-- **Email:**      angela0rduno91@gmail.com 
-- **LinkedIn:**   [www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/angela0diaz/)  
-- **Portfolio:**  https://angela-diaz.com 
+- **Email:**     angela0rduno91@gmail.com 
+- **LinkedIn:**  https://www.linkedin.com/in/angela0diaz/
+- **Portfolio:** https://angela-diaz.com 
 
 ---
