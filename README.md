@@ -1,4 +1,4 @@
-# 📄 Angela Diaz — Resume
+# 📄 Angela Diaz
 
 Data-driven IT and analytics leader with 10+ years of experience driving technical operations, leading support and
 project teams, and optimizing systems through automation, documentation, and structured processes. PhD Candidate in
