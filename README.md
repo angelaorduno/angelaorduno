@@ -33,8 +33,14 @@ solutions that elevate performance across diverse environments.
 ---
 
 ## 🧭 Overview
+<div align="center">
+
+### 🎓 <strong>PhD in Data Science (In Progress)</strong>  
+National University
+
+---
+
 <p align="center">
-🔭 <strong>Currently working on my PhD in Data Science at National University</strong><br>
 🌱 <strong>Actively learning Machine Learning Deployment & MLOps</strong><br>
 👯 <strong>Open to collaboration on Machine Learning & AI projects</strong><br>
 🤝 <strong>Looking to grow my network of like-minded data professionals</strong><br>
