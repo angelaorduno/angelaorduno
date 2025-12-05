@@ -23,9 +23,6 @@ solutions that elevate performance across diverse environments.
 
 ---
 
-## 🧭 Overview
-<div align="center">
-
 ### 🎓 <strong>PhD in Data Science (In Progress)</strong>  
 National University
 
@@ -38,9 +35,6 @@ National University
 ⚡ <strong>Fun facts: I love poetry and attending Comic & Anime Cons</strong>
 </p>
 
-</div>
-
----
 ---
 
 ### 🔗 **Download My Resume**
