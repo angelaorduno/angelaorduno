@@ -34,8 +34,12 @@ solutions that elevate performance across diverse environments.
 
 ## 🧭 Overview
 
-This repository serves as a **centralized and version-controlled** home for my professional resume.  
-It allows easy access for hiring managers, collaborators, and research partners.
+- 🔭 I’m currently working on PhD. Data Science at National University
+- 🌱 I’m currently learning Machine Learning Deployment
+- 👯 I’m looking to collaborate on Machine Learning and AI projects
+- 🤔 I’m looking for help growing my network of like minded people
+- ⚡ Fun facts: I love poetry and attending Comic and Anime Cons
+
 
 ---
 
