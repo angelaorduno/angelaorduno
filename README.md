@@ -36,7 +36,7 @@ National University
 ---
 
 ### 🔗 **Download My Resume**
-<a href="./AngelaD_ResData.pdf" download>
+<a href="./AngelaDiazResume2026.pdf" download>
   <img src="https://img.shields.io/badge/📥_Download_Resume-PDF-blue?style=for-the-badge" alt="Download Resume Badge"/>
 </a>
 
