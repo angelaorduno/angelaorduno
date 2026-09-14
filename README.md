@@ -2,13 +2,11 @@
 
 # 📄 **Angela Diaz**
 
-Data-driven IT and analytics leader with 10+ years of experience driving technical operations, leading support and
-project teams, and optimizing systems through automation, documentation, and structured processes. PhD Candidate in
-Data Science with hands-on experience in machine learning, predictive analytics, statistical modeling, and end-to-end
-data workflows, leveraging Python and R for applied modeling, deep learning, and optimization. Adept at transforming
-complex data into actionable insights, enhancing organizational efficiency, and guiding data-informed decision-making.
-Proven ability to collaborate with engineering, security, and business stakeholders to deliver scalable, reliable, and userfocused
-solutions that elevate performance across diverse environments.
+Data science and technology professional with 10+ years of experience across IT, technical operations, and analytics. 
+MS in Data Science and current PhD student with hands-on experience in machine learning, predictive analytics, 
+statistical modeling, and end-to-end data workflows using Python and R. I enjoy applying data science to real-world 
+problems, exploring patterns in complex data, and turning analysis into meaningful insights. My interests include 
+applied machine learning, AI, healthcare analytics, and data-driven research.
 
 
 ### 🔧 **Tech Stack & Skills**
@@ -29,7 +27,7 @@ National University
 ---
 
 <p align="center">
-🌱 <strong>Actively learning Machine Learning Deployment & MLOps</strong><br>
+🌱 <strong>Expanding my skills in Machine Learning Deployment & MLOps</strong><br>
 👯 <strong>Open to collaboration on Machine Learning & AI projects</strong><br>
 🤝 <strong>Looking to grow my network of like-minded data professionals</strong><br>
 ⚡ <strong>Fun facts: I love poetry and attending Comic & Anime Cons</strong>
@@ -43,5 +41,3 @@ National University
 </a>
 
 ---
-
-
