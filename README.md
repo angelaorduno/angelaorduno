@@ -9,14 +9,14 @@ problems, exploring patterns in complex data, and turning analysis into meaningf
 applied machine learning, AI, healthcare analytics, and data-driven research.
 
 
-### 🔧 **Tech Stack & Skills**
+### 🌸 **Tech Stack & Skills**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-7A1FA2?style=flat" />
-  <img src="https://img.shields.io/badge/SQL-CC0000?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-E92BAA?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-C21884?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-E92BAA?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-C21884?logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-E92BAA?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-C21884?logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -35,9 +35,15 @@ National University
 
 ---
 
-### 🔗 **Download My Resume**
+### 💗 **Download My Resume**
+
 <a href="./AngelaDiazResume2026.pdf" download>
-  <img src="https://img.shields.io/badge/📥_Download_Resume-PDF-blue?style=for-the-badge" alt="Download Resume Badge"/>
+  <img src="https://img.shields.io/badge/📥_DOWNLOAD_RESUME-E92BAA?style=for-the-badge&logoColor=white" alt="Download Resume"/>
+</a>
+<a href="./AngelaDiazResume2026.pdf" download>
+  <img src="https://img.shields.io/badge/PDF-C21884?style=for-the-badge&logoColor=white" alt="PDF"/>
 </a>
 
 ---
+
+</div>
